@@ -1,0 +1,14 @@
+/Users/artemponomarenko/Downloads/StoreUseCases/bin/Debug/net8.0/StoreUseCases
+/Users/artemponomarenko/Downloads/StoreUseCases/bin/Debug/net8.0/StoreUseCases.deps.json
+/Users/artemponomarenko/Downloads/StoreUseCases/bin/Debug/net8.0/StoreUseCases.runtimeconfig.json
+/Users/artemponomarenko/Downloads/StoreUseCases/bin/Debug/net8.0/StoreUseCases.dll
+/Users/artemponomarenko/Downloads/StoreUseCases/bin/Debug/net8.0/StoreUseCases.pdb
+/Users/artemponomarenko/Downloads/StoreUseCases/obj/Debug/net8.0/StoreUseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemponomarenko/Downloads/StoreUseCases/obj/Debug/net8.0/StoreUseCases.AssemblyInfoInputs.cache
+/Users/artemponomarenko/Downloads/StoreUseCases/obj/Debug/net8.0/StoreUseCases.AssemblyInfo.cs
+/Users/artemponomarenko/Downloads/StoreUseCases/obj/Debug/net8.0/StoreUseCases.csproj.CoreCompileInputs.cache
+/Users/artemponomarenko/Downloads/StoreUseCases/obj/Debug/net8.0/StoreUseCases.dll
+/Users/artemponomarenko/Downloads/StoreUseCases/obj/Debug/net8.0/refint/StoreUseCases.dll
+/Users/artemponomarenko/Downloads/StoreUseCases/obj/Debug/net8.0/StoreUseCases.pdb
+/Users/artemponomarenko/Downloads/StoreUseCases/obj/Debug/net8.0/StoreUseCases.genruntimeconfig.cache
+/Users/artemponomarenko/Downloads/StoreUseCases/obj/Debug/net8.0/ref/StoreUseCases.dll
